@@ -1,0 +1,1 @@
+MyFirstRail::Application.config.secret_key_base = '174fb6532cfcff3d2fae301248102b991b65dab2a3015cfc1f59471e004fc4ee6d03aab3a8072675eeb376dd466fe5a623ca2c6fb31936e21d4eae10d1cb0f47'
